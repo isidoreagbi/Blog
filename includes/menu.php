@@ -5,7 +5,7 @@
             <td>
                 <ul>
                     <li>
-                        <a href="/Blog/index.php" class="<?= (isset($_GET["page"]) && $_GET["page"] == "" ? "menu-active" : ""); ?>">Home</a>
+                        <a href="/Blog/index.php" class="<?= (!isset($_GET["page"])? "menu-active" : ""); ?>">Home</a>
                     </li>
 
                     <li>
