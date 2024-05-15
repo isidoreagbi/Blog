@@ -5,18 +5,18 @@
             <td>
                 <ul>
                     <li>
-                        <a href="#">Home</a>
+                        <a href="/Blog/index.php">Home</a>
                     </li>
 
                     <li>
-                        <a href="#">Articles</a>
+                        <a href="/Blog/pages/articles.php">Articles</a>
                     </li>
                     <li>
-                        <a href="#">Inscription</a>
+                        <a href="/Blog/pages/inscription.php">Inscription</a>
                     </li>
 
                     <li>
-                        <a href="#">Connexion</a>
+                        <a href="/Blog/pages/connexion.php">Connexion</a>
                     </li>
                 </ul>
             </td>
